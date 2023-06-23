@@ -1,5 +1,7 @@
 package com.orangehrmslive;
 
 public class TestClass {
-    hhhhhhhh;
+    public static void main(String[] args) {
+
+    }
 }
